@@ -12,17 +12,13 @@ ms.prod:
 ms.service: microsoft-intune
 ms.technology: 
 ms.assetid: b496bc02-714e-4391-b533-4c9bdcf57483
-searchScope:
-- IntuneEDU
-ms.translationtype: Machine Translation
-ms.sourcegitcommit: f76a24da64ea7688f385c5ea15a368c76e982951
+searchScope: IntuneEDU
 ms.openlocfilehash: a593eefcc965537949ec57f6a325d25859801355
-ms.contentlocale: ko-kr
-ms.lasthandoff: 07/05/2017
-
-
+ms.sourcegitcommit: 293ad8c775aa37b5d3b6a9e547c80f31ba6a5bdd
+ms.translationtype: MT
+ms.contentlocale: ko-KR
+ms.lasthandoff: 08/15/2017
 ---
-
 # <a name="what-are-enrollment-managers-in-intune-for-education"></a>교육에 Intune에 등록 관리자는 무엇입니까?
 
 작은따옴표나 몇 개의 사용자 계정으로 교육에 대 한 Intune을 사용 하 여 많은 수의 장치 등록을 수행할 수 있습니다. _등록 관리자_ 최대 1, 000 개의 장치를 등록할 수 있는 특수 한 사용자 계정입니다. 기존 사용자를 수행 하 고이 정보를 특수 등록 기능을 제공 하는 등록 관리자 있도록 합니다.
@@ -46,4 +42,3 @@ ms.lasthandoff: 07/05/2017
 ## <a name="find-out-more"></a>자세한 정보
 
 - [Intune에서 환경 전체 등록 관리자에 대 한 자세한 아웃 찾기](https://docs.microsoft.com/intune/deploy-use/enroll-corporate-owned-devices-with-the-device-enrollment-manager-in-microsoft-intune)
-

@@ -12,18 +12,14 @@ ms.prod:
 ms.service: microsoft-intune
 ms.technology: 
 ms.assetid: a5922c35-261c-43db-9c7b-c5c93af9cbec
-searchScope:
-- IntuneEDU
+searchScope: IntuneEDU
 ms.reviewer: travisj
-ms.translationtype: Machine Translation
-ms.sourcegitcommit: f76a24da64ea7688f385c5ea15a368c76e982951
 ms.openlocfilehash: b1a7a0a574982a48f46559ae0577e6663491b8b3
-ms.contentlocale: ko-kr
-ms.lasthandoff: 07/05/2017
-
-
+ms.sourcegitcommit: 293ad8c775aa37b5d3b6a9e547c80f31ba6a5bdd
+ms.translationtype: MT
+ms.contentlocale: ko-KR
+ms.lasthandoff: 08/15/2017
 ---
-
 # <a name="what-are-reports-in-intune-for-education"></a>교육에 Intune에서 보고서는 무엇입니까?
 
 교육에 Intune 장치 및 교육에 대 한 intune 관리 앱에서 특정 활동을 볼 수 있는 보고서를 제공 합니다. 오프 라인으로 검토 하 여 이러한 보고서를 다운로드할 수 있습니다.
@@ -56,4 +52,3 @@ ms.lasthandoff: 07/05/2017
 
 - [Intune에서 전체 보고 환경에 대해 자세히 알아보기](https://docs.microsoft.com/intune/deploy-use/understand-microsoft-intune-operations-by-using-reports)
 - [Microsoft Graph를 사용 하 여 보고 하는 방법에 대 한 자세한 내용을 알아보려면](https://developer.microsoft.com/graph/docs/overview/overview)
-

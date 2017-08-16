@@ -12,19 +12,14 @@ ms.prod:
 ms.service: microsoft-intune
 ms.technology: 
 ms.assetid: 20c0f6c9-f1de-4048-aa96-5b0a068c1b75
-searchScope:
-- IntuneEDU
+searchScope: IntuneEDU
 .md#ms.tgt_pltfrm: 
-ms.translationtype: Machine Translation
-ms.sourcegitcommit: f76a24da64ea7688f385c5ea15a368c76e982951
 ms.openlocfilehash: a8a9619476315459d49dc128e14c3bc0f2f7794e
-ms.contentlocale: ko-kr
-ms.lasthandoff: 07/05/2017
-
-
-
+ms.sourcegitcommit: 293ad8c775aa37b5d3b6a9e547c80f31ba6a5bdd
+ms.translationtype: MT
+ms.contentlocale: ko-KR
+ms.lasthandoff: 08/15/2017
 ---
-
 # <a name="how-do-i-manage-settings"></a>설정을 관리 하려면 어떻게 해야 합니까?
 
 다양 한 사용자, 앱 및 Intune로 장치에 대 한 설정 관리할 수 있습니다. 장치 사용자 작업에 응답할 수는 어떻게 변경 되는 방식을 이며합니다
@@ -73,4 +68,3 @@ Express 구성을 손쉽게 신속 하 게 시작할 수 있습니다 하지만 
 ## <a name="find-out-more"></a>자세한 정보
 
 - [Intune에서 관리 환경이 전체 정책에 대해 자세히 알아보기](https://docs.microsoft.com/intune/deploy-use/manage-settings-and-features-on-your-devices-with-microsoft-intune-policies)
-

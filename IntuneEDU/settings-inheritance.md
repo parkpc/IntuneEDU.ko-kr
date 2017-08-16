@@ -12,17 +12,13 @@ ms.prod:
 ms.service: microsoft-intune
 ms.technology: 
 ms.assetid: 4b69b884-bed9-43f4-8507-c802228a8804
-searchScope:
-- IntuneEDU
-ms.translationtype: Machine Translation
-ms.sourcegitcommit: f76a24da64ea7688f385c5ea15a368c76e982951
+searchScope: IntuneEDU
 ms.openlocfilehash: 388e4f4468c3184d4dd941c74f8524a6302694f3
-ms.contentlocale: ko-kr
-ms.lasthandoff: 07/05/2017
-
-
+ms.sourcegitcommit: 293ad8c775aa37b5d3b6a9e547c80f31ba6a5bdd
+ms.translationtype: MT
+ms.contentlocale: ko-KR
+ms.lasthandoff: 08/15/2017
 ---
-
 # <a name="what-is-settings-inheritance"></a>설정 상속 이란?
 
 설정은 그룹에 적용 됩니다. 그룹으로 설정 되어 있으므로 위의 다른, 설정 그룹에 적용 한 그룹 계층, 모든 하위 그룹에 상속 됩니다. 이렇게 하면 보다 쉽게 대규모 그룹을 사용자, 앱 및 장치에 설정을 적용할 수 있습니다.
@@ -44,4 +40,3 @@ ms.lasthandoff: 07/05/2017
 ## <a name="find-out-more"></a>자세한 정보
 
   - [Intune에서 아웃 환경 전체 그룹에 대 한 자세한 정보 찾기](https://docs.microsoft.com/intune/deploy-use/use-groups-to-manage-users-and-devices-with-microsoft-intune)
-

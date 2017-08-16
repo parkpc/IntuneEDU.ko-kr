@@ -12,17 +12,13 @@ ms.prod:
 ms.service: microsoft-intune
 ms.technology: 
 ms.assetid: 08502917-a691-447d-9ae8-8be2f6ef1b68
-searchScope:
-- IntuneEDU
-ms.translationtype: Machine Translation
-ms.sourcegitcommit: f76a24da64ea7688f385c5ea15a368c76e982951
+searchScope: IntuneEDU
 ms.openlocfilehash: 9fc3c41f09617316f80abc22af2dac5369a0911a
-ms.contentlocale: ko-kr
-ms.lasthandoff: 07/05/2017
-
-
+ms.sourcegitcommit: 293ad8c775aa37b5d3b6a9e547c80f31ba6a5bdd
+ms.translationtype: MT
+ms.contentlocale: ko-KR
+ms.lasthandoff: 08/15/2017
 ---
-
 # <a name="where-are-my-acquired-microsoft-store-for-education-apps"></a>교육 앱에 대 한 제공 된 Microsoft 스토어 내 어디 입니까?
 
 교육에 대 한 Intune 앱 할당 프로세스 중 인기 있는 교육 스토어의에서 앱을 Microsoft 교육을 권장합니다. 앱 학교에 사용 하려는 하나 되 면이 화면에서 그룹에 즉시 할당에 대 한 응용 프로그램을 얻을 수 있습니다.
@@ -38,4 +34,3 @@ ms.lasthandoff: 07/05/2017
 ## <a name="find-out-more"></a>자세한 정보
 
 - [교육 앱에 대 한 Microsoft 저장소에 대해 자세히 알아보기](https://docs.microsoft.com/microsoft-store/find-and-acquire-apps-overview)
-

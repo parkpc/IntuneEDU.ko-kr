@@ -12,17 +12,13 @@ ms.prod:
 ms.service: microsoft-intune
 ms.technology: 
 ms.assetid: 24ab6547-aa65-428a-b184-06b806e95bd1
-searchScope:
-- IntuneEDU
-ms.translationtype: Machine Translation
-ms.sourcegitcommit: f76a24da64ea7688f385c5ea15a368c76e982951
+searchScope: IntuneEDU
 ms.openlocfilehash: 7a2298d4a1b55d8a1355ca9e828d92c0a561eac8
-ms.contentlocale: ko-kr
-ms.lasthandoff: 07/05/2017
-
-
+ms.sourcegitcommit: 293ad8c775aa37b5d3b6a9e547c80f31ba6a5bdd
+ms.translationtype: MT
+ms.contentlocale: ko-KR
+ms.lasthandoff: 08/15/2017
 ---
-
 # <a name="how-do-i-add-apps-to-intune-for-education"></a>교육에 대 한 Intune에 앱을 추가 하려면 어떻게 해야 합니까?
 
 교육을 위해 Intune 사용한 학교 장치에서 앱을 설치할 수 있습니다, 전에 그러한 응용 프로그램 교육 계정에 대 한 Intune에 추가 해야 합니다.
@@ -107,4 +103,3 @@ A _웹 앱_ 은 사용자가 브라우저에서 배타적으로 액세스 되는
 ## <a name="find-out-more"></a>자세한 정보
 
 - [Intune을 사용 하 여 앱을 관리 하는 전체 경험에 대 한 자세한 내용을 알아보려면](https://docs.microsoft.com/intune/deploy-use/add-apps)
-

@@ -12,17 +12,13 @@ ms.prod:
 ms.service: microsoft-intune
 ms.technology: 
 ms.assetid: c884df47-61a9-4799-a407-8cd311d376d1
-searchScope:
-- IntuneEDU
-ms.translationtype: Machine Translation
-ms.sourcegitcommit: f76a24da64ea7688f385c5ea15a368c76e982951
+searchScope: IntuneEDU
 ms.openlocfilehash: 7b5343d996868ceaf18a58812a4db14d626d2969
-ms.contentlocale: ko-kr
-ms.lasthandoff: 07/05/2017
-
-
+ms.sourcegitcommit: 293ad8c775aa37b5d3b6a9e547c80f31ba6a5bdd
+ms.translationtype: MT
+ms.contentlocale: ko-KR
+ms.lasthandoff: 08/15/2017
 ---
-
 # <a name="how-do-i-add-devices-to-intune-for-education"></a>교육에 대 한 Intune에 장치를 추가 하려면 어떻게 합니까?
 
 사용자 정보로 교육에 대 한 Intune을 설정 해-학생 레코드, 앱 및 장치에 대 한 설정을 같은-교육에 Intune에 장치를 연결 해야 합니다. 새 Windows 10 장치에 대 한 설치 환경의 일부로이 수행할 수 있습니다.
@@ -52,4 +48,3 @@ ms.lasthandoff: 07/05/2017
 ## <a name="find-out-more"></a>자세한 정보
 - [에 대 한 자세한 내용을 알아보려면는 **학교 Pc 설정** 응용 프로그램](https://docs.microsoft.com/education/windows/use-set-up-school-pcs-app)
 - [Intune에 장치를 추가 하는 전체 환경에 대해 자세히 알아보기](https://docs.microsoft.com/intune/deploy-use/enroll-devices-in-microsoft-intune)
-

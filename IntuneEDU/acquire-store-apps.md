@@ -12,17 +12,13 @@ ms.prod:
 ms.service: microsoft-intune
 ms.technology: 
 ms.assetid: e38a808b-bbfb-4cbc-835a-f99b1c85a048
-searchScope:
-- IntuneEDU
-ms.translationtype: Machine Translation
-ms.sourcegitcommit: f76a24da64ea7688f385c5ea15a368c76e982951
+searchScope: IntuneEDU
 ms.openlocfilehash: 331385df400802b152dc91f8aad3bbf88a80d2b6
-ms.contentlocale: ko-kr
-ms.lasthandoff: 07/05/2017
-
-
+ms.sourcegitcommit: 293ad8c775aa37b5d3b6a9e547c80f31ba6a5bdd
+ms.translationtype: MT
+ms.contentlocale: ko-KR
+ms.lasthandoff: 08/15/2017
 ---
-
 ## <a name="how-do-i-acquire-apps-from-the-microsoft-store-for-education"></a>교육에 대 한 Microsoft 스토어에서 앱을 획득지 않습니다는 방법
 
 교육에 대 한 Microsoft 스토어에서 구입한 앱 교육에 Intune에 자동으로 표시 됩니다. 이렇게 하면 쉽게 드립니다 수백, 수천 앱의 Windows 10 장치에 대 한 액세스를 합니다.
@@ -32,4 +28,3 @@ ms.lasthandoff: 07/05/2017
 ## <a name="find-out-more"></a>자세한 정보
 
 - [Intune을 사용 하 여 스토어 앱을 가져오는 전체 환경에 대해 자세히 알아보기](https://docs.microsoft.com/intune/deploy-use/manage-apps-you-purchased-from-the-windows-store-for-business-with-microsoft-intune)
-

@@ -12,17 +12,13 @@ ms.prod:
 ms.service: microsoft-intune
 ms.technology: 
 ms.assetid: ce79202e-e6b4-4e1d-b0e5-26496f9e49a2
-searchScope:
-- IntuneEDU
-ms.translationtype: Machine Translation
-ms.sourcegitcommit: f76a24da64ea7688f385c5ea15a368c76e982951
+searchScope: IntuneEDU
 ms.openlocfilehash: 65e52116b52a125bc9d11b878dd9f7d3e5af4e7a
-ms.contentlocale: ko-kr
-ms.lasthandoff: 07/05/2017
-
-
+ms.sourcegitcommit: 293ad8c775aa37b5d3b6a9e547c80f31ba6a5bdd
+ms.translationtype: MT
+ms.contentlocale: ko-KR
+ms.lasthandoff: 08/15/2017
 ---
-
 # <a name="how-do-i-customize-my-dashboard"></a>내 대시보드를 사용자 지정 하려면 어떻게 합니까?
 
 프로그램 _대시보드_ 교육에 Intune에 대 한 기본 방문 페이지입니다. 사용자, 앱 및 장치 관리를 위해 포털에 로그인 할 때마다 시작 될 위치는
@@ -57,4 +53,3 @@ ms.lasthandoff: 07/05/2017
 ## <a name="find-out-more"></a>자세한 정보
 
 - [전체 Intune 장치 관리 환경에 대해 자세히 알아보기](https://docs.microsoft.com/intune/understand-explore/introduction-to-microsoft-intune)
-

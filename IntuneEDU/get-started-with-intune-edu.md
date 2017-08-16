@@ -12,17 +12,13 @@ ms.prod:
 ms.service: microsoft-intune
 ms.technology: 
 ms.assetid: 9d0466c5-d69d-4b85-814a-76e63dd65e63
-searchScope:
-- IntuneEDU
-ms.translationtype: Machine Translation
-ms.sourcegitcommit: f76a24da64ea7688f385c5ea15a368c76e982951
+searchScope: IntuneEDU
 ms.openlocfilehash: d703fdc5667b3042a8d97a59e6c8525530103132
-ms.contentlocale: ko-kr
-ms.lasthandoff: 07/05/2017
-
-
+ms.sourcegitcommit: 293ad8c775aa37b5d3b6a9e547c80f31ba6a5bdd
+ms.translationtype: MT
+ms.contentlocale: ko-KR
+ms.lasthandoff: 08/15/2017
 ---
-
 # <a name="get-started-with-intune-for-education"></a>교육에 대 한 Intune 시작
 
 교육에 Intune을 설정 하려면 학생과 교사 정보를 구성한 다음 학생과 교사, 장치 정보를 관리 합니다. 교육에 대 한 Intune에 학생과 교사 정보를 가져오려는 첫 번째 단계는 다음 학생과 교사의 그룹에 대 한 앱 및 설정이 정렬 합니다. 장치에 대해 원하는 설정을 설정한 후에 장치에 적용 하 고 관리 아래에서 사용할 수 있도록 시작 합니다.
@@ -41,4 +37,3 @@ ms.lasthandoff: 07/05/2017
 - [교육에 Intune의 테 넌 트 수준 작업에 대해 자세히 알아보기](what-are-tenants.md)
 - [Intune에서 전체 관리 환경을 시작 하는 방법에 대 한 자세한 내용을 알아보려면](https://docs.microsoft.com/intune/get-started/start-with-a-paid-subscription-to-microsoft-intune)
 - [Azure AD에서 그룹을 관리 하는 방법에 대 한 자세한 내용을 알아보려면](https://docs.microsoft.com/azure/active-directory/active-directory-groups-create-azure-portal)
-

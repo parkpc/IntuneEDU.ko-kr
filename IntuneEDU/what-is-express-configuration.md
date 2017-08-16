@@ -12,17 +12,13 @@ ms.prod:
 ms.service: microsoft-intune
 ms.technology: 
 ms.assetid: af5d35ee-84f5-4245-a441-671600bcc376
-searchScope:
-- IntuneEDU
-ms.translationtype: Machine Translation
-ms.sourcegitcommit: f76a24da64ea7688f385c5ea15a368c76e982951
+searchScope: IntuneEDU
 ms.openlocfilehash: 796782e6c0cf9fa975bd9c8f3a94314bb00d8d89
-ms.contentlocale: ko-kr
-ms.lasthandoff: 07/05/2017
-
-
+ms.sourcegitcommit: 293ad8c775aa37b5d3b6a9e547c80f31ba6a5bdd
+ms.translationtype: MT
+ms.contentlocale: ko-KR
+ms.lasthandoff: 08/15/2017
 ---
-
 # <a name="what-is-express-configuration"></a>Express 구성 이란?
 
 Express 구성을 처음 로그인 하면 Intune 교육용으로 참조 되는 타일 중 하나입니다.
@@ -87,4 +83,3 @@ Express 구성 준비 완료 하 여 그룹을 가져오는 경우가 설정을 
 
 ## <a name="find-out-more"></a>자세한 정보
 - [Intune의 전체 관리 환경에서 사용할 수 있는 설정에 대해 자세히 알아보기](https://docs.microsoft.com/intune/deploy-use/manage-settings-and-features-on-your-devices-with-microsoft-intune-policies)
-

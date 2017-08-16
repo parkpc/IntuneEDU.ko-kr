@@ -12,17 +12,13 @@ ms.prod:
 ms.service: microsoft-intune
 ms.technology: 
 ms.assetid: 3ad65b15-015a-402e-9dd5-0748dee79459
-searchScope:
-- IntuneEDU
-ms.translationtype: Machine Translation
-ms.sourcegitcommit: f76a24da64ea7688f385c5ea15a368c76e982951
+searchScope: IntuneEDU
 ms.openlocfilehash: a8c442fb1388a301d0eacf34bbf60602f61b4dbf
-ms.contentlocale: ko-kr
-ms.lasthandoff: 07/05/2017
-
-
+ms.sourcegitcommit: 293ad8c775aa37b5d3b6a9e547c80f31ba6a5bdd
+ms.translationtype: MT
+ms.contentlocale: ko-KR
+ms.lasthandoff: 08/15/2017
 ---
-
 # <a name="how-do-i-use-take-a-test-profiles"></a>Take을 어떻게 사용 합니까 테스트 프로필?
 
 _테스트 프로필 걸릴_ 은 쉽게 Windows 10 장치를 통해 정보를 제공 하 고 summative 평가 관리할 수 있도록 합니다. Take 테스트에 적합 한 환경이 테스트를 수행 하기 위한 만듭니다.
@@ -57,4 +53,3 @@ Take 테스트를 선택 하 여 프로필을 설정할 수 있습니다 **테�
 ## <a name="find-out-more"></a>자세한 정보
 
 - [테스트를 수행 하는 방법에 대 한 자세히 알아보기](https://technet.microsoft.com/edu/windows/take-tests-in-windows-10)
-

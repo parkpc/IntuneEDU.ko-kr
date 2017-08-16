@@ -12,17 +12,13 @@ ms.prod:
 ms.service: microsoft-intune
 ms.technology: 
 ms.assetid: 45160df9-126d-4c51-a0d3-0e9fad0fe929
-searchScope:
-- IntuneEDU
-ms.translationtype: Machine Translation
-ms.sourcegitcommit: f76a24da64ea7688f385c5ea15a368c76e982951
+searchScope: IntuneEDU
 ms.openlocfilehash: 9c3a2dbcb3412e52eff99d92f4a0560a5122e2f7
-ms.contentlocale: ko-kr
-ms.lasthandoff: 07/05/2017
-
-
+ms.sourcegitcommit: 293ad8c775aa37b5d3b6a9e547c80f31ba6a5bdd
+ms.translationtype: MT
+ms.contentlocale: ko-KR
+ms.lasthandoff: 08/15/2017
 ---
-
 # <a name="how-should-i-enroll-devices"></a>장치를 등록 해야 하는 방법
 
 몇 가지 방법으로 교육에 대 한 Intune에서 관리로 장치를 등록할 수 있습니다. 이러한 모든 작업을 서로 교체 하 여 사용할 수 있지만 일부 보다 합리적 프로그램 구역을 등록 하는 직원 및 장치를 받는 사용자 수의 크기에 따라. 예를 들어 교사 자신의 장치를 지정 하 고 수백 USB 키를 사용 하 여 장치를 등록 하기 위한 더 빠른 경로를 설정할 수 있습니다 하는 동안 장치 자체를 등록 하도록 알립니다 수 있습니다.
@@ -37,4 +33,3 @@ ms.lasthandoff: 07/05/2017
 
 - [다운로드는 **학교 Pc 설정** Microsoft 스토어에서 앱](https://www.microsoft.com/store/p/set-up-school-pcs/9nblggh4ls40)
 - [교육을 위해 Windows 장치를 설정 하는 방법에 대 한 자세한 내용을 알아보려면](https://docs.microsoft.com/education/windows/set-up-windows-10)
-

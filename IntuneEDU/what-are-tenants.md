@@ -12,17 +12,13 @@ ms.prod:
 ms.service: microsoft-intune
 ms.technology: 
 ms.assetid: 50bd115f-a167-456a-910d-8f31ec17a422
-searchScope:
-- IntuneEDU
-ms.translationtype: Machine Translation
-ms.sourcegitcommit: f76a24da64ea7688f385c5ea15a368c76e982951
+searchScope: IntuneEDU
 ms.openlocfilehash: 54c063880ff3861cdee702ef6727e828af7a7c5d
-ms.contentlocale: ko-kr
-ms.lasthandoff: 07/05/2017
-
-
+ms.sourcegitcommit: 293ad8c775aa37b5d3b6a9e547c80f31ba6a5bdd
+ms.translationtype: MT
+ms.contentlocale: ko-KR
+ms.lasthandoff: 08/15/2017
 ---
-
 # <a name="what-are-tenants"></a>테 넌 트 란?
 
 프로그램 _테 넌 트_ 조직의 교육에 Intune의 전체 인스턴스는 합니다. 작업 수정 여 테 넌 트 수준 하지 않는 단일 그룹 영향을 주거나 큰 그룹도 같은 **모든 학생**합니다. 이러한 수정 사항은 모든 장치를 관리 하 고 전체 프로그램 구독에서 및 라이선스의 모든 해당 장치를 사용 하 여 조직의 모든 사용자에 영향을 줍니다.
@@ -42,4 +38,3 @@ ms.lasthandoff: 07/05/2017
 ## <a name="find-out-more"></a>자세한 정보
 
 - [Intune의 전체 관리 환경에서 역할 기반 액세스를 설정 하는 방법에 대 한 자세한 내용을 알아보려면](https://docs.microsoft.com/intune-azure/access-control/role-based-access-control)
-

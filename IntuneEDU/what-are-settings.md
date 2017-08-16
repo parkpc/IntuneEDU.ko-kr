@@ -12,18 +12,13 @@ ms.prod:
 ms.service: microsoft-intune
 ms.technology: 
 ms.assetid: 91d004c0-8d06-4307-8868-46ac7b119101
-searchScope:
-- IntuneEDU
-ms.translationtype: Machine Translation
-ms.sourcegitcommit: f76a24da64ea7688f385c5ea15a368c76e982951
+searchScope: IntuneEDU
 ms.openlocfilehash: c7308ab88970c335a0c43d20f4558a54c9143fd9
-ms.contentlocale: ko-kr
-ms.lasthandoff: 07/05/2017
-
-
-
+ms.sourcegitcommit: 293ad8c775aa37b5d3b6a9e547c80f31ba6a5bdd
+ms.translationtype: MT
+ms.contentlocale: ko-KR
+ms.lasthandoff: 08/15/2017
 ---
-
 # <a name="what-are-settings"></a>설정 이란?
 
 _설정_ 사용 하 여 사용자가 자신의 장치 함께 사용 하는 방법을 정의 됩니다. 장치 작업을 수행 하는 사용자 또는 장치에서 작업을 수행할에서 사용자를 중지 하는 단순히 응답 하는 방법을 수정 하거나이 합니다. 교육 설정에 대 한 Intune을 사용 하면 학교 장치에서 기능을 관리할 수 있도록 합니다.
@@ -45,4 +40,3 @@ _설정_ 사용 하 여 사용자가 자신의 장치 함께 사용 하는 방�
 ## <a name="find-out-more"></a>자세한 정보
 
 - [앱 및 Intune에서 전체 관리 경험을 사용 하 여 데이터를 보호 하는 방법에 대해 자세히 알아보기](https://docs.microsoft.com/intune/deploy-use/protect-apps-and-data-with-microsoft-intune)
-

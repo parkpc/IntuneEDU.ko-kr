@@ -12,17 +12,13 @@ ms.prod:
 ms.service: microsoft-intune
 ms.technology: 
 ms.assetid: 2221009e-68cf-4171-8118-0d750b0f35f1
-searchScope:
-- IntuneEDU
-ms.translationtype: Machine Translation
-ms.sourcegitcommit: f76a24da64ea7688f385c5ea15a368c76e982951
+searchScope: IntuneEDU
 ms.openlocfilehash: d37a43ff1488c54745daf6109d650a4183d14471
-ms.contentlocale: ko-kr
-ms.lasthandoff: 07/05/2017
-
-
+ms.sourcegitcommit: 293ad8c775aa37b5d3b6a9e547c80f31ba6a5bdd
+ms.translationtype: MT
+ms.contentlocale: ko-KR
+ms.lasthandoff: 08/15/2017
 ---
-
 # <a name="available-settings-for-intune-for-education"></a>교육에 Intune에 대 한 사용 가능한 설정
 
 설정의 구성은 Windows 10 장치를 보호 하 고 올바른 종류의 학습 환경을 향상 시키기 위해 액세스를 만들 수는 주요 방법 중 하나입니다. 교육에 Intune에 개별 그룹 및 해당 하위 그룹에 모두 이러한 환경을 사용자 지정할 수 있도록 하는 많은 설정을 제공 합니다.
@@ -232,4 +228,3 @@ Wi-fi 설정에 Wi-fi 설정 으로부터 분리 되어 **무선 설정**합니�
 ## <a name="find-out-more"></a>자세한 정보
 
 - [전체 Windows 10 설정 관리 환경을 Intune에서 사용할 수 있는 대해 자세히 알아보기](https://docs.microsoft.com/intune/deploy-use/windows-10-policy-settings-in-microsoft-intune)
-
