@@ -6,18 +6,18 @@ keywords:
 author: barlanmsft
 ms.author: barlan
 manager: angrobe
-ms.date: 05/10/2017
+ms.date: 08/16/2017
 ms.topic: article
 ms.prod: 
 ms.service: microsoft-intune
 ms.technology: 
 ms.assetid: 2221009e-68cf-4171-8118-0d750b0f35f1
 searchScope: IntuneEDU
-ms.openlocfilehash: d37a43ff1488c54745daf6109d650a4183d14471
-ms.sourcegitcommit: 293ad8c775aa37b5d3b6a9e547c80f31ba6a5bdd
+ms.openlocfilehash: 2e9d06366142f7adce5eff9454c85cab62165c46
+ms.sourcegitcommit: f4fb37302cb3c927196958c33e7215f7827bfcb3
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 08/15/2017
+ms.lasthandoff: 09/14/2017
 ---
 # <a name="available-settings-for-intune-for-education"></a>교육에 Intune에 대 한 사용 가능한 설정
 
@@ -163,12 +163,31 @@ ms.lasthandoff: 08/15/2017
 
 |설정|기능|
 |---|---|
+|< a name = "removew10apps"</a>기본 제공 Windows 10 앱을 제거 합니다.|특정 기본 제공 Windows 앱을 제거 합니다. 그러한 응용 프로그램의 되는지 알아보세요. [아래](available-settings.md#additional-information-about-removing-built-in-apps)합니다.|
 |Microsoft 스토어 교육 앱|사용자가 교육에 대 한 Microsoft 스토어에서 앱 설치를 차단 합니다.|
 |Microsoft 스토어 교육 앱에 대 한 개인 저장소에서 설치 필요로 합니다.|교육 조직 설정에 대 한 Microsoft 스토어에서 앱을 설치할 수 있도록 합니다.|
 |신뢰할 수 있는 앱|사용자가 Microsoft에서 서명 된 신뢰할 수 있는 앱을 설치할 수 있는지 여부를 정의 합니다.|
 |신뢰할 수 없는 앱|사용자가 서명 되지 않은 앱 또는 Microsoft에서 신뢰 하지는 외부 원본에서 서명 된 앱을 설치할 수 있는지 여부를 정의 합니다.|
 |자동 응용 프로그램 업데이트|Microsoft 스토어 교육 자동으로 업데이트 되는 앱을 차단 합니다.|
 |사용자 간에 공유 응용 프로그램 데이터|응용 프로그램 데이터를 공유할 공유 장치의 여러 사용자가 허용 합니다.|
+
+## <a name="additional-information-about-removing-built-in-apps"></a>기본 제공 앱을 제거 하는 방법에 대 한 추가 정보
+
+이 설정은 자동으로 켜 집니다 경우 "공유 사용을 위해 최적화 장치" 설정이 켜져 있습니다. 이 설정을 켤 때 다음 앱 사용자의 컴퓨터에서 완전히 제거 됩니다.
+
+* 3DBuilder
+* Bing 날씨
+* 데스크톱 응용 프로그램 설치 관리자
+* 시작
+* Microsoft Office 허브
+* 카드놀이 컬렉션
+* 연결 하나
+* Windows 피드백 허브
+* Xbox
+* Groove 음악
+<!--* Zune Video-->
+* Mail
+* 일정
 
 ## <a name="sign-in-settings"></a>로그인 설정
 
@@ -198,7 +217,7 @@ ms.lasthandoff: 08/15/2017
 
 |설정|기능|
 |---|---|
-|전자 메일 설정 구성|이 그룹에 대 한 전자 메일 설정을 구성 하려면 선택 합니다. 이러한 설정은 Windows 10 메일 응용 프로그램에 적용 됩니다. 이렇게 하지 않으면 **구성** 이 설정을 다른 전자 메일 설정이이 테이블에는 사용할 수 있습니다.|
+|메일 설정 구성|이 그룹에 대 한 전자 메일 설정을 구성 하려면 선택 합니다. 이러한 설정은 Windows 10 메일 응용 프로그램에 적용 됩니다. 이렇게 하지 않으면 **구성** 이 설정을 다른 전자 메일 설정이이 테이블에는 사용할 수 있습니다.|
 |계정 이름|학생과 교사 장치에이 표시 하는 일을 할 수 있습니다.|
 |전자 메일 서버|사용자의 전자 메일을 호스트 하는 서버 이름을 입력 합니다.|
 |사용자 이름|전자 메일 프로필에 사용자 이름을 설정을 적용 하는 경우 Azure Active Directory에서 Intune은 사용 하는 특성을 선택 합니다.|
