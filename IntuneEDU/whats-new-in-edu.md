@@ -14,10 +14,10 @@ ms.technology:
 ms.assetid: 7d8dfd82-8cee-4874-85f6-edaf84e49c4c
 searchScope: IntuneEDU
 ms.openlocfilehash: 9b6aa1b648804693b0263b822f67df2bfd61687b
-ms.sourcegitcommit: 6de69841bfc3124c98442d2d35893694ee0a2da0
+ms.sourcegitcommit: 2914b0e879129878ab55f59d288a0739f0e00fb9
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 10/24/2017
+ms.lasthandoff: 11/24/2017
 ---
 # <a name="whats-new-in-intune-for-education"></a>교육에 Intune의 새로운 기능
 이 버전의 교육에 대 한 Intune의 새로운 기능에 대해 알아봅니다. 이전 릴리스에 대한 정보뿐만 아니라 계획을 수립해야 하는 예정된 변경에 대해서도 알아볼 수 있습니다.

@@ -14,10 +14,10 @@ ms.technology:
 ms.assetid: c884df47-61a9-4799-a407-8cd311d376d1
 searchScope: IntuneEDU
 ms.openlocfilehash: 7b5343d996868ceaf18a58812a4db14d626d2969
-ms.sourcegitcommit: 293ad8c775aa37b5d3b6a9e547c80f31ba6a5bdd
+ms.sourcegitcommit: 2914b0e879129878ab55f59d288a0739f0e00fb9
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 08/15/2017
+ms.lasthandoff: 11/24/2017
 ---
 # <a name="how-do-i-add-devices-to-intune-for-education"></a>교육에 대 한 Intune에 장치를 추가 하려면 어떻게 합니까?
 

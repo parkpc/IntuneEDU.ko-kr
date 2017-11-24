@@ -14,10 +14,10 @@ ms.technology:
 ms.assetid: 2221009e-68cf-4171-8118-0d750b0f35f1
 searchScope: IntuneEDU
 ms.openlocfilehash: 2e9d06366142f7adce5eff9454c85cab62165c46
-ms.sourcegitcommit: f4fb37302cb3c927196958c33e7215f7827bfcb3
+ms.sourcegitcommit: 2914b0e879129878ab55f59d288a0739f0e00fb9
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 09/14/2017
+ms.lasthandoff: 11/24/2017
 ---
 # <a name="available-settings-for-intune-for-education"></a>교육에 Intune에 대 한 사용 가능한 설정
 
@@ -219,7 +219,7 @@ ms.lasthandoff: 09/14/2017
 |---|---|
 |메일 설정 구성|이 그룹에 대 한 전자 메일 설정을 구성 하려면 선택 합니다. 이러한 설정은 Windows 10 메일 응용 프로그램에 적용 됩니다. 이렇게 하지 않으면 **구성** 이 설정을 다른 전자 메일 설정이이 테이블에는 사용할 수 있습니다.|
 |계정 이름|학생과 교사 장치에이 표시 하는 일을 할 수 있습니다.|
-|전자 메일 서버|사용자의 전자 메일을 호스트 하는 서버 이름을 입력 합니다.|
+|메일 서버|사용자의 전자 메일을 호스트 하는 서버 이름을 입력 합니다.|
 |사용자 이름|전자 메일 프로필에 사용자 이름을 설정을 적용 하는 경우 Azure Active Directory에서 Intune은 사용 하는 특성을 선택 합니다.|
 |전자 메일 주소|전자 메일 프로필에 전자 메일 주소 설정을 적용 하는 경우 Azure Active Directory에서 Intune은 사용 하는 특성을 선택 합니다.|
 |장치에 전자 메일을 저장 하는 시간|장치에서 전자 메일을 저장할 시간을 선택 합니다.|
