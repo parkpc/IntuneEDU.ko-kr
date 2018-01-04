@@ -6,17 +6,18 @@
 ## [학교 데이터 동기화란?](what-is-school-data-sync.md)
 ## [테넌트란?](what-are-tenants.md)
 
-## 설정
-### [설정이란?](what-are-settings.md)
-### [설정 상속이란?](settings-inheritance.md)
-
 # 계획
 ## [등록 관리자란?](what-are-enrollment-managers.md)
 ## [장치를 등록하려면 어떻게 해야 하나요?](how-should-i-enroll-devices.md)
 
+# 설정
+## [설정이란?](what-are-settings.md)
+## [설정 상속이란?](settings-inheritance.md)
+
 # 방법
 ## 그룹 사용
 ### [그룹이란?](what-are-groups.md)
+### [그룹 관리를 위임하려면 어떻게 하나요?](group-admin-delegate.md)
 ## 설정 사용
 ### [설정을 관리하려면 어떻게 하나요?](how-do-i-manage-settings.md)
 ### [사용 가능한 설정은 무엇인가요?](available-settings.md)
