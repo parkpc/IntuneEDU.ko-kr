@@ -13,15 +13,15 @@ ms.service: microsoft-intune
 ms.technology: 
 ms.assetid: af5d35ee-84f5-4245-a441-671600bcc376
 searchScope: IntuneEDU
-ms.openlocfilehash: 796782e6c0cf9fa975bd9c8f3a94314bb00d8d89
-ms.sourcegitcommit: 2914b0e879129878ab55f59d288a0739f0e00fb9
+ms.openlocfilehash: 32be142b9c8aec2e3d7d7bb38629f70253580e23
+ms.sourcegitcommit: 2ed186bca1a0bbf74513f92b0c43d595db84e5cc
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 11/24/2017
+ms.lasthandoff: 01/03/2018
 ---
 # <a name="what-is-express-configuration"></a>Express 구성 이란?
 
-Express 구성을 처음 로그인 하면 Intune 교육용으로 참조 되는 타일 중 하나입니다.
+Express 구성을 처음 로그인 하면를 볼 수 있는 타일 중 하나는 [교육에 대 한 Intune](https://intuneeducation.portal.azure.com)합니다.
 
   ![Express 구성 타일을 표시 시작 Express 구성-앱 및 그룹에 대 한 설정을 선택 하려면 여기를 클릭 합니다.](./media/express-config-001-launch-tile.png)
 
