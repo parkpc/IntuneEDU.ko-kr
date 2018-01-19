@@ -6,18 +6,18 @@ keywords:
 author: barlanmsft
 ms.author: barlan
 manager: angrobe
-ms.date: 01/05/2018
+ms.date: 01/17/2018
 ms.topic: article
 ms.prod: 
 ms.service: microsoft-intune
 ms.technology: 
 ms.assetid: 2221009e-68cf-4171-8118-0d750b0f35f1
 searchScope: IntuneEDU
-ms.openlocfilehash: 648ac30f39a7739898e3e44b26fe6c6470d8b78f
-ms.sourcegitcommit: e4772cb9f0702ce56b3b4bf9dafe19163e9960af
+ms.openlocfilehash: ec0e7acac5d0b674cc5373db8d218b8d8bb6ced5
+ms.sourcegitcommit: eec0d728af6e8404c08b4b71fb557a5b946b2853
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 01/06/2018
+ms.lasthandoff: 01/19/2018
 ---
 # <a name="available-settings-for-intune-for-education"></a>교육에 Intune에 대 한 사용 가능한 설정
 
@@ -39,7 +39,7 @@ ms.lasthandoff: 01/06/2018
 |Setting|기능|
 |---|---|
 |블록 수동 등록 취소|수동으로 관리에서 장치 등록을 취소 하지 못하게 차단 합니다.|
-|< a name = "removew10apps"</a>기본 제공 Windows 10 앱을 제거 합니다.|특정 기본 제공 Windows 앱을 제거 합니다. 그러한 응용 프로그램의 되는지 알아보세요. [아래](available-settings.md#additional-information-about-removing-built-in-apps)합니다.|
+|<a name="removew10apps"></a>기본 제공 Windows 10 앱을 제거 합니다.|특정 기본 제공 Windows 앱을 제거 합니다. 그러한 응용 프로그램의 되는지 알아보세요. [아래](available-settings.md#additional-information-about-removing-built-in-apps)합니다.|
 |블록 카메라|장치 카메라에 대 한 사용자 액세스를 차단 합니다.|
 |블록 OneDrive 파일 동기화|이러한 장치 및 사용자에 대 한 블록 OneDrive 동기화 합니다.|
 |블록 이동식 저장소|USB 드라이브 및 외부 하드 드라이브와 같은 이동식 저장소를 사용 하 여 사용자를 차단 합니다.|
