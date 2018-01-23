@@ -6,7 +6,7 @@ keywords:
 author: barlanmsft
 ms.author: barlan
 manager: angrobe
-ms.date: 01/17/2018
+ms.date: 01/22/2018
 ms.topic: article
 ms.prod: 
 ms.service: microsoft-intune
@@ -14,11 +14,11 @@ ms.technology:
 ms.assetid: a5922c35-261c-43db-9c7b-c5c93af9cbec
 searchScope: IntuneEDU
 ms.reviewer: travisj
-ms.openlocfilehash: 1abe5e35e574e1bc058c861247974105333e1b18
-ms.sourcegitcommit: eec0d728af6e8404c08b4b71fb557a5b946b2853
+ms.openlocfilehash: f756b0dd6b36afb8fa47517e103cc435aa5d3e05
+ms.sourcegitcommit: 5ee14a281dbae6b7cc9711ca2d19e49f85e78ed5
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 01/19/2018
+ms.lasthandoff: 01/22/2018
 ---
 # <a name="what-are-reports-in-intune-for-education"></a>교육에 Intune에서 보고서는 무엇입니까?
 
@@ -41,6 +41,8 @@ ms.lasthandoff: 01/19/2018
   * **설정 오류가** -있는 설정 목록은 [충돌 중인](settings-inheritance.md) 계층의 모든 그룹에 대 한 합니다.
 
   ![설정 충돌 발생 목록을 보여 주는 화면을 보고 하는 설정 오류가 발생 합니다.](./media/reports-003-settings-error.png)
+
+ * **Windows Defender** -모든 장치에 대 한 보기 Windows Defender 장치 상태입니다.
 
   또한 해당 특정 종류의 앱에 대 한 (웹 앱, 데스크톱 응용 프로그램, Microsoft 스토어 앱)에 정보만 표시 하는 응용 프로그램의 종류를 선택할 수 있습니다.
 
