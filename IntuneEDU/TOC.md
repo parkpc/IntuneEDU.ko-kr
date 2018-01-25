@@ -31,5 +31,6 @@
 ## 장치 사용
 ### [장치를 추가하려면 어떻게 하나요?](how-do-i-add-devices.md)
 ### [테스트 수행 프로필을 사용하려면 어떻게 하나요?](take-a-test-profiles.md)
+### [원격 작업은 어떻게 사용하나요?][remote-actions.md]
 ## 보고서 사용
 ### [보고서란?](what-are-reports.md)
