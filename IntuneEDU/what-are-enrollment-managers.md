@@ -12,7 +12,8 @@ ms.prod:
 ms.service: microsoft-intune
 ms.technology: 
 ms.assetid: b496bc02-714e-4391-b533-4c9bdcf57483
-searchScope: IntuneEDU
+searchScope:
+- IntuneEDU
 ms.openlocfilehash: df2c6cff7677a2a5da001dba8ea4329b420628fb
 ms.sourcegitcommit: eec0d728af6e8404c08b4b71fb557a5b946b2853
 ms.translationtype: MT
@@ -29,7 +30,7 @@ ms.lasthandoff: 01/19/2018
 
   ![현재 등록 관리자 목록에서 표시 한 사람](./media/enroll-mgrs-001-current-list-of-mgrs.png)
 
-등록 관리자를 확인 한 다음 선택 하려는 ि ल ् 선택 __저장__합니다.
+등록 관리자를 만들 사람을 선택 하 고 __저장__을 선택 합니다.
 
 ## <a name="removing-enrollment-managers"></a>등록 관리자를 제거합니다.
 
