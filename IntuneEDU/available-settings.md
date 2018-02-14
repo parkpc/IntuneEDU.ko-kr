@@ -6,18 +6,19 @@ keywords:
 author: barlanmsft
 ms.author: barlan
 manager: angrobe
-ms.date: 01/17/2018
+ms.date: 02/13/2018
 ms.topic: article
 ms.prod: 
 ms.service: microsoft-intune
 ms.technology: 
 ms.assetid: 2221009e-68cf-4171-8118-0d750b0f35f1
-searchScope: IntuneEDU
-ms.openlocfilehash: ec0e7acac5d0b674cc5373db8d218b8d8bb6ced5
-ms.sourcegitcommit: eec0d728af6e8404c08b4b71fb557a5b946b2853
+searchScope:
+- IntuneEDU
+ms.openlocfilehash: 6ff62dcad987e6ce8d18e314ac226a9ab2149aa0
+ms.sourcegitcommit: 1b05b1241ac053e0e0fbaf86cc441dcc15c4dcef
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 01/19/2018
+ms.lasthandoff: 02/14/2018
 ---
 # <a name="available-settings-for-intune-for-education"></a>교육에 Intune에 대 한 사용 가능한 설정
 
@@ -152,7 +153,12 @@ ms.lasthandoff: 01/19/2018
 
 ## <a name="wi-fi-profiles"></a>Wi-Fi 프로필
 
-만들어야 하는 Wi-fi 프로필 표시와 함께 여기에서 **네트워크 이름 (SSID)**, **보안 유형을**, 및 **설명**합니다. <!--in ui, choose a list of checkboxes of wifi profiles to assign to the group-->
+만들어야 하는 Wi-fi 프로필 표시와 함께 여기에서 **네트워크 이름 (SSID)**, **보안 유형을**, 및 **설명**합니다. 
+
+> [!NOTE]
+> 사용 하 여 WPA-2 기업 Wi-fi 네트워크를 구성할 수 있습니다는 [Intune에서 Wi-fi 프로필 관리 환경이 전체](https://docs.microsoft.com//intune/wi-fi-settings-import-windows-8-1)합니다. 설정 하려면 Intune을 사용할 수도 있습니다 [SCEP](https://docs.microsoft.com/intune/certificates-scep-configure) 및 [PKI](https://docs.microsoft.com/intune/certficates-pfx-configure) 통합 합니다. 
+
+<!--in ui, choose a list of checkboxes of wifi profiles to assign to the group-->
 
 
 ## <a name="device-sharing-settings"></a>공유 설정 하는 장치

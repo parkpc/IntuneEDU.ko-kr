@@ -6,18 +6,19 @@ keywords:
 author: barlanmsft
 ms.author: barlan
 manager: angrobe
-ms.date: 01/17/2018
+ms.date: 02/13/2018
 ms.topic: article
 ms.prod: 
 ms.service: microsoft-intune
 ms.technology: 
 ms.assetid: 4b570196-a640-4d13-8e01-8e8553ce1468
-searchScope: IntuneEDU
-ms.openlocfilehash: 53250c27bf3304414d7f5e23fd65f40c60422b02
-ms.sourcegitcommit: eec0d728af6e8404c08b4b71fb557a5b946b2853
+searchScope:
+- IntuneEDU
+ms.openlocfilehash: 601d8a2d226111c78c7458f7b081dc0ed965932e
+ms.sourcegitcommit: 1b05b1241ac053e0e0fbaf86cc441dcc15c4dcef
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 01/19/2018
+ms.lasthandoff: 02/14/2018
 ---
 # <a name="what-are-groups"></a>그룹은 무엇입니까?
 
@@ -41,7 +42,10 @@ ms.lasthandoff: 01/19/2018
 
 동적 그룹에 수동으로 사용자가 직접 추가 하는 대신 그룹 구성원을 추가 하는 프로세스를 건너뛸 수 있습니다. 학생 또는 장치 무엇이 든 기준을 만족 하는 테 넌 트를 검색 하는 규칙을 사용 하 여 생성 됩니다. 예를 들어 올해의 끝에 graduating 학생의 모든 표시 하는 동적 그룹을 만들 수 있습니다. 학생, 에서도 예기치 않게 수 없는 경우 수동으로이 동적 그룹에서 제거 수 없습니다. 대신 그룹에서 제거는 졸업 연도, 해당 학생의 변경 해야 합니다.
 
-동적 그룹의 규칙의 정의 포함할만 수 있으므로 별로 하위 그룹을 만들 수 없습니다.
+> [!TIP]
+> 동적 그룹은 개체의 큰 그룹 관리에 매우 유용 합니다. 장치 및 사용자 그룹 매우 큰 학교 구역에 수동으로 할당에서는 상당한 시간과 구성 하는 수동 노력 합니다. 사용자 장치의 이름을 지정 하는 경우-예를 들어 기존의 조건에 따라 필터링 할 동적 그룹을 사용 하 여 *DeviceType_School_Grade_0001* -많은 사용자 및 장치 관리를 쉽게 만들 수 있습니다.
+
+동적 그룹의 규칙의 정의 포함할만 수 있으므로 별로 하위 그룹을 만들 수 없습니다. 
 
 ## <a name="managing-groups-and-subgroups"></a>그룹 및 하위 그룹 관리
 
