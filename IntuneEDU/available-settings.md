@@ -6,7 +6,7 @@ keywords:
 author: barlanmsft
 ms.author: barlan
 manager: angrobe
-ms.date: 02/16/2018
+ms.date: 02/20/2018
 ms.topic: article
 ms.prod: 
 ms.service: microsoft-intune
@@ -14,11 +14,11 @@ ms.technology:
 ms.assetid: 2221009e-68cf-4171-8118-0d750b0f35f1
 searchScope:
 - IntuneEDU
-ms.openlocfilehash: befb3771c2a28a1bc6ffc2d2f502d4d1ce7eaed7
-ms.sourcegitcommit: c581fd07989ad96c463374bf7463f848c86d8443
+ms.openlocfilehash: cd707a8ff75c64f51cd7c0f4c5767efd58ac777c
+ms.sourcegitcommit: 917dd5150ee9c051faa1e83d8d98b51d0c874d47
 ms.translationtype: MT
 ms.contentlocale: ko-KR
-ms.lasthandoff: 02/19/2018
+ms.lasthandoff: 02/20/2018
 ---
 # <a name="available-settings-for-intune-for-education"></a>교육에 Intune에 대 한 사용 가능한 설정
 
@@ -124,7 +124,7 @@ ms.lasthandoff: 02/19/2018
 |업데이트 빈도 설정|Defender에 대 한 확인 하 고 맬웨어 방지 조기 실행-업데이트를 다운로드 하는 빈도 정의 합니다.|
 |잠재적으로 원치 않는 응용 프로그램 보호|Defender는 사용자와 장치에 자동으로 설치 하는 소프트웨어를 잠재적으로 원치 블록 경고 합니다.|
 |클라우드 기반 보호를 사용 하도록 설정|Defender가 잠재적인 보안 위협에 대 한 Microsoft에 정보를 보낼 때 실시간 보호를 가져옵니다. 이 기능은 자동으로 샘플을 보내기로 "사용자에 샘플 제출 확인 메시지를 표시" 설정 된 가장 잘 작동 합니다.|
-|<a name="blocksuspiciousfiles"></a>의심 스러운 파일 차단|이 설정은에 있으면 Windows Defender 바이러스 백신 됩니다 보다 적극적으로 차단 하 고 스캔; 의심 스러운 파일을 식별 하는 경우 그렇지 않은 경우 보다 낮은 값 및 차단 되며 적은 빈도 사용 하 여 검사 합니다.|
+|<a name="blocksuspiciousfiles"></a>의심 스러운 파일 차단|이 설정은에 있으면 Windows Defender 바이러스 백신 됩니다 보다 적극적으로 차단 하 고 스캔; 의심 스러운 파일을 식별 하는 경우 그렇지 않은 경우 보다 낮은 값 및 차단 되며 적은 빈도 사용 하 여 검사 합니다. 선택할 수 있습니다 **기본**, **높은**, **높은 +**, 및 **0 허용 오차**합니다. **높은** 장치 성능에 영향을 주지에 대 한 영향을 최소화 하는 동안 알 수 없는 파일을 적극적으로 차단 합니다. **높은 +** 적극적으로 알 수 없는 파일을 차단 되지만 장치 성능에 부정적인 영향을 줄 수 있습니다. **허용 오차 0** 모든 알 수 없는 파일의 실행을 차단 합니다.|
 |검색 된 맬웨어 위협에 대 한 작업|Windows Defender는 자동으로 검색 된 맬웨어를 격리 합니다.|
 |네트워크 검사 서비스를 사용 하도록 설정|검색 하 고 악의적인 트래픽을 차단 Microsoft Endpoint Protection Center에서 알려진된 취약점의 서명을 사용 하 여 네트워크 기반의 익스플로잇 으로부터 장치를 보호할 수 있습니다.|
 |이러한 확장명의 파일을 검색 및 실시간 보호에서 제외|보안 위협에 대 한 검사 하지 않고 액세스할 수 있도록 하는 파일의 형식을 정의 합니다.|
