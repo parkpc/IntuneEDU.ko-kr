@@ -1,5 +1,4 @@
 # [Intune for Education이란?](what-is-intune-for-education.md)
-## [새로운 기능](whats-new-in-edu.md)
 
 # [시작](get-started-with-intune-edu.md)
 ## [빠른 구성이란?](what-is-express-configuration.md)
